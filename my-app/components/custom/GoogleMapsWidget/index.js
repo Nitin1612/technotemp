@@ -1,0 +1,1 @@
+export { GoogleMapsWidget } from "./GoogleMapsWidget";

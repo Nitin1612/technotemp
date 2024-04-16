@@ -1,0 +1,95 @@
+.google-maps-widget {
+  background-image: url(https://c.animaapp.com/Og8BJBl1/img/map-image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 300px;
+  position: relative;
+  width: 600px;
+}
+
+.google-maps-widget .zoom-controls {
+  background-color: #ffffff;
+  border-radius: var(--corner-radius-radius-s);
+  box-shadow: var(--shadow-light-s);
+  height: 81px;
+  left: 548px;
+  position: absolute;
+  top: 207px;
+  width: 40px;
+}
+
+.google-maps-widget .p-lus {
+  height: 19px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 19px;
+}
+
+.google-maps-widget .minus {
+  height: 4px;
+  left: 11px;
+  position: absolute;
+  top: 60px;
+  width: 19px;
+}
+
+.google-maps-widget .separator {
+  background-color: #e6e6e6;
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 41px;
+  width: 29px;
+}
+
+.google-maps-widget .satelite {
+  background-image: url(https://c.animaapp.com/Og8BJBl1/img/image-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: var(--corner-radius-radius-s);
+  height: 40px;
+  left: 12px;
+  position: absolute;
+  top: 248px;
+  width: 40px;
+}
+
+.google-maps-widget .button {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: var(--corner-radius-radius-s);
+  box-sizing: border-box;
+  display: inline-flex;
+  justify-content: center;
+  left: 12px;
+  padding: var(--spacing-spacing-4px) var(--spacing-spacing-12px)
+    var(--spacing-spacing-4px) var(--spacing-spacing-12px);
+  position: absolute;
+  top: 12px;
+}
+
+.google-maps-widget .text-wrapper {
+  color: #0369f0;
+  font-family: var(--text-3-font-family);
+  font-size: var(--text-3-font-size);
+  font-style: var(--text-3-font-style);
+  font-weight: var(--text-3-font-weight);
+  letter-spacing: var(--text-3-letter-spacing);
+  line-height: var(--text-3-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.google-maps-widget .pin {
+  height: 30px;
+  left: 290px;
+  position: absolute;
+  top: 135px;
+  width: 21px;
+}
